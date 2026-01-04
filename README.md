@@ -105,7 +105,7 @@
 * AI system reliability and monitoring & Backend optimization strategies
 
 **📫 Get in touch - I'm always excited to discuss real-world engineering problems!**
-[LinkedIn](https://linkedin.com/in/ishitasodhiya) | [Email Me](mailto:ishitasodhiya@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/ishita-sodhiya-93a37932a/) | [Email Me](mailto:ishitasodhiya@gmail.com)
 
 ---
 
