@@ -5,7 +5,7 @@
   <p><b>🔧 Focused on environments where data is messy, systems need to scale, and correctness matters</b></p>
   
   <p align="center">
-    <a href="https://linkedin.com/in/ishitasodhiya">
+    <a href="https://www.linkedin.com/in/ishita-sodhiya-93a37932a/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     <a href="mailto:ishitasodhiya@gmail.com">
