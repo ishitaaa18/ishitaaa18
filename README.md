@@ -72,20 +72,16 @@
 ---
 
 ### 📊 GitHub Performance
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ishitaaa18&show_icons=true&theme=transparent&title_color=3382ed&text_color=ffffff&icon_color=3382ed&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishitaaa18&layout=compact&theme=transparent&title_color=3382ed&text_color=ffffff&hide_border=true" width="48%" />
-</div>
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishitaaa18&theme=transparent&stroke=3382ed&fire=3382ed&ring=3382ed&currStreakLabel=3382ed&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ishitaaa18&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishitaaa18&layout=compact&theme=radical&hide_border=true" width="48%" />
 </p>
 
 ---
 
 ### 🐍 Contribution Activity
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ishitaaa18/ishitaaa18/output/github-snake-dark.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/ishitaaa18/ishitaaa18/output/github-snake.svg" alt="Snake Animation" />
 </p>
 
 ---
