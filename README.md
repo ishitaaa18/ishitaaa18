@@ -1,96 +1,65 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi,%20I'm%20Ishita%20Sodhiya%20👋&fontSize=50&animation=fadeIn" width="100%"/>
-  
-  <h3>🚀 Curious Mind Diving Deep into AI, ML, and GenAI Tools</h3>
-  
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=ishitaaa18&label=Profile%20Views&color=5865F2&style=for-the-badge" alt="Profile Views Badge" />
-  </p>
-</div>
+## Hi, I’m Ishita Sodhiya
+
+I am a Computer Engineering undergraduate at Pune Institute of Computer Technology with hands-on experience building data intensive and AI powered systems. My work focuses on backend engineering, machine learning pipelines, and applied GenAI, especially in environments where data is messy, systems need to scale, and correctness matters.
+
+I am interested in building systems that behave predictably in real world conditions, not just prototypes that work in ideal setups.
 
 ---
 
-### 📖 About Me
-I'm a tech enthusiast exploring the intersection of **Artificial Intelligence** and real-world impact. While I started with web development, my current passion lies in building AI-powered tools, solving data-centric problems, and experimenting with GenAI applications.
+## Experience
 
-* 🔭 **Currently working on:** AI-integrated SaaS platforms and ML tools.
-* 🌱 **Learning:** Deep Learning, LLMs, and real-time AI orchestration.
-* 🤝 **Open to collaborate on:** ML research, GenAI-based apps, and AI-driven SaaS projects.
-* 💬 **Ask me about:** Python, ML pipelines, Streamlit, and LLM Integration.
-* 🍭 **Fun fact:** I used to believe clouds were edible — still waiting on a cotton candy cloud-flavored dessert.
+### IBM Research Intern  
+Worked on time series foundation models, contributing to architecture level experimentation, benchmarking, and reproducible evaluation pipelines. Collaborated with senior researchers on experiment design, validation, and analysis with a strong focus on methodological correctness and research quality.
 
----
+### IBM AI ML Intern  
+Worked on an LLM based decoder for SNMP traps and syslogs using Watsonx.ai. Contributed to pipelines for log normalization, metadata enrichment, and severity classification. Supported features for plain language decoding, root cause hints, and remediation suggestions.
 
-### 🌐 Connect With Me
-<p align="left">
-  <a href="https://linkedin.com/in/ishitasodhiya" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/ishitasodhiya" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-</p>
+### AI ML Intern at Swatah.ai  
+Built backend pipelines and dashboards for monitoring multimodal AI systems with an emphasis on transparency and risk aware analytics. Worked on optimizing models for low latency environments and designed automated feedback loops that improved monitoring accuracy and adaptability.
 
 ---
 
-### 🛠️ Tech Stack
+## Selected Projects
 
-<details open>
-  <summary><b>🧠 AI / ML & Data Science</b></summary>
-  <p align="left">
-    <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" height="40" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/TensorFlowLogo.svg" height="40" />
-    <img src="https://pytorch.org/assets/images/pytorch-logo.png" height="40" />
-    <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="40" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" />
-  </p>
-</details>
+### EcoLens  
+An AI driven platform that helps users understand the environmental impact of consumer products using barcode or name based search. Built data pipelines to aggregate information from multiple sources, handled incomplete and inconsistent inputs, and designed explainable scoring and reporting so users could trust the outputs.
 
-<details>
-  <summary><b>🔧 Backend & Database</b></summary>
-  <p align="left">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" />
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" height="40" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40" height="40" />
-  </p>
-</details>
+### GENEREQ  
+An AI powered requirement engineering assistant that extracts structured requirements from unstructured inputs such as emails, PDFs, and meeting notes. Focused on validation, traceability, and audit friendly version control for compliance sensitive workflows.
 
-<details>
-  <summary><b>👨‍💻 Frontend & UI/UX</b></summary>
-  <p align="left">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" />
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" height="40" />
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" />
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" />
-  </p>
-</details>
+### GreenEdge  
+A smart retail logistics optimizer built during the Walmart Hackathon. Worked on predictive models and backend logic to improve route efficiency and returns processing, and built dashboards to track KPIs and compliance metrics.
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ishitaaa18&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ishitaaa18&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+## What I Work With
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishitaaa18&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+- Python, Java, C++  
+- Backend APIs and data pipelines  
+- Machine learning, NLP, and applied GenAI  
+- LLM integration and RAG based systems  
+- SQL and NoSQL databases including PostgreSQL and MongoDB  
+- Cloud platforms and containerized deployments  
 
 ---
 
-### 🐍 My Contribution Journey
-<p align="center">
-  <img src="https://github.com/ishitaaa18/ishitaaa18/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
+## How I Think About Engineering
 
-<p align="center">
-  <b>Let’s connect and build something amazing together 🚀</b>
-</p>
+I care about reliability, debuggability, and system behavior under imperfect conditions. I enjoy working on problems where failures are subtle and fixing them so issues become visible, understandable, and easier to reason about. I prefer building systems that teams can trust and maintain over time.
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" width="100%"/>
-</div>
+---
+
+## Why My Work Matters
+
+I focus on building systems that continue to behave correctly when data is incomplete, delayed, or inconsistent. Through my internships and projects, I have seen how fragile systems become when these cases are ignored.
+
+I design pipelines, validation layers, and monitoring so failures surface early and systems remain trustworthy as they scale.
+
+---
+
+## Get in Touch
+
+LinkedIn: https://www.linkedin.com/in/ishita-sodhiya-93a37932a  
+GitHub: https://github.com/ishitaaa18  
+
+I am open to collaborating on backend, AI, and data centric projects that solve real world problems.
