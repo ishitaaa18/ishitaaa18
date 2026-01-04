@@ -1,11 +1,16 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Ishita%20Sodhiya&fontSize=70&animation=fadeIn" width="100%"/>
-  
-  <h3>🚀 Passionate about building data-intensive and AI-powered systems that scale</h3>
+  <h1>Ishita Sodhiya</h1>
+  <p><strong>AI/ML Engineer | Backend Systems | Data Architect</strong></p>
+  <p>🚀 Passionate about building data-intensive and AI-powered systems that scale</p>
   <p><b>🔧 Focused on environments where data is messy, systems need to scale, and correctness matters</b></p>
-
+  
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=ishitaaa18&label=Profile%20Views&color=5865F2&style=for-the-badge" alt="Profile Views Badge" />
+    <a href="https://linkedin.com/in/ishitasodhiya">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:your-email@example.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
   </p>
 </div>
 
@@ -13,20 +18,17 @@
 
 ### 💼 Professional Experience
 
-#### 🔬 IBM Research | Research Intern
-* **Focus:** Advancing data-centric AI research and experimental validation.
-* Implemented and tested ML architectures to handle **stochastic data environments**.
-* Collaborated on research initiatives aimed at improving **model interpretability** and performance in high-stakes applications.
+**IBM Research** | *Research Intern*
+* Advancing data-centric AI research and experimental validation for stochastic data environments.
+* Focused on improving model interpretability and performance in high-stakes applications.
 
-#### 🤖 IBM | AI/ML Intern
-* **Focus:** Scalable Machine Learning and Production-grade AI.
-* Developed and optimized **ML pipelines** for large-scale datasets, reducing processing latency.
-* Focused on **model robustness**, ensuring systems remain stable despite data drift and noise.
+**IBM** | *AI/ML Intern*
+* Optimized ML pipelines for large-scale datasets, significantly reducing processing latency.
+* Engineered model robustness frameworks to mitigate data drift and noise in production environments.
 
-#### ⚡ Swatah.ai | AI/ML Intern
-* **Focus:** Generative AI Applications and SaaS Integration.
-* Built and deployed **LLM-based tools** for real-time data extraction and processing.
-* Engineered **RAG (Retrieval-Augmented Generation)** workflows to improve the factual accuracy of AI-driven responses.
+**Swatah.ai** | *AI/ML Intern*
+* Architected RAG (Retrieval-Augmented Generation) workflows to improve factual accuracy in LLM tools.
+* Integrated Generative AI applications into scalable SaaS platforms.
 
 ---
 
@@ -38,29 +40,17 @@
 | **📋 GENEREQ** | AI-powered requirement engineering assistant that extracts structured requirements from emails, PDFs, and meeting notes with validation & traceability. | `NLP` `GenAI` `Backend APIs` |
 | **🛒 GreenEdge** | Smart retail logistics optimizer built for Walmart Hackathon. Predictive models and dashboards for route efficiency and returns processing. | `ML` `Backend Logic` `Analytics` |
 
+<p align="left">🔗 <b><a href="https://github.com/ishitaaa18?tab=repositories">View All Projects on GitHub</a></b></p>
+
 ---
 
 ### 🛠️ Technology Stack
 
-#### 💻 Programming Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,go,ts,js" />
-</p>
-
-#### 🧠 AI/ML & Data Science
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,pandas,numpy" />
-</p>
-
-#### ⚙️ Backend, APIs & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,postman,docker,git" />
-</p>
-
-#### 📊 Databases & Cloud
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,sqlite,redis,firebase,aws" />
-</p>
+* **💻 Programming Languages:** `Python` • `Java` • `C++` • `Go` • `TypeScript`
+* **🧠 AI/ML & Data:** `PyTorch` • `TensorFlow` • `Scikit-Learn` • `Hugging Face` • `Pandas`
+* **⚙️ Backend & APIs:** `FastAPI` • `Node.js` • `Express` • `REST APIs` • `Streamlit`
+* **📊 Databases:** `MongoDB` • `PostgreSQL` • `SQLite` • `Redis`
+* **☁️ Cloud & DevOps:** `Docker` • `Git` • `Firebase` • `Postman`
 
 ---
 
@@ -68,10 +58,10 @@
 > **"I don't just build systems that work in demos—I build systems that work when data is messy, incomplete, or delayed."**
 
 #### 🎯 Core Principles
-* **🎯 Reliability:** Systems that work under pressure.
-* **🔍 Debuggability:** Making issues visible & understandable.
-* **⚖️ Fault Tolerance:** Graceful handling of edge cases.
-* **🔧 Maintainability:** Long-term team productivity.
+* **Reliability:** Architecting systems to maintain uptime and accuracy under high computational pressure.
+* **Debuggability:** Making systemic issues visible and understandable through robust logging and tracing.
+* **Fault Tolerance:** Ensuring graceful handling of edge cases and unexpected system states.
+* **Maintainability:** Writing clean, documented code to ensure long-term team productivity.
 
 #### 🔧 Key Focus Areas
 * **🔄 Pipeline Resilience** - Systems continue working with incomplete/inconsistent data.
@@ -81,10 +71,21 @@
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 GitHub Performance
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ishitaaa18&show_icons=true&theme=transparent&title_color=3382ed&text_color=ffffff&icon_color=3382ed&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishitaaa18&layout=compact&theme=transparent&title_color=3382ed&text_color=ffffff&hide_border=true" width="48%" />
+</div>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ishitaaa18&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ishitaaa18&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishitaaa18&theme=transparent&stroke=3382ed&fire=3382ed&ring=3382ed&currStreakLabel=3382ed&hide_border=true" />
+</p>
+
+---
+
+### 🐍 Contribution Activity
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ishitaaa18/ishitaaa18/output/github-snake-dark.svg" alt="Snake Animation" />
 </p>
 
 ---
@@ -94,10 +95,17 @@
 * 🔧 **Backend Engineering** - Scalable APIs & Services
 * 🤖 **AI/ML Systems** - Production ML Pipelines
 * 📊 **Data Engineering** - ETL & Data Processing
+* ☁️ **Cloud Architecture** - Distributed Systems
 
-**📫 Get in touch:**
-[LinkedIn]([https://linkedin.com/in/ishitasodhiya](https://www.linkedin.com/in/ishita-sodhiya-93a37932a/)) | [Email Me](mailto:ishi.sodhiya@gmail.com)
+**💬 Open to discussing:**
+* Production ML system challenges & Data pipeline architecture
+* AI system reliability and monitoring & Backend optimization strategies
+
+**📫 Get in touch - I'm always excited to discuss real-world engineering problems!**
+[LinkedIn](https://linkedin.com/in/ishitasodhiya) | [Email Me](mailto:your-email@example.com)
+
+---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" width="100%"/>
+  <sub>⭐ Building the future, one reliable system at a time</sub>
 </div>
