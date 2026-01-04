@@ -8,7 +8,7 @@
     <a href="https://linkedin.com/in/ishitasodhiya">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="mailto:your-email@example.com">
+    <a href="mailto:ishitasodhiya@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
   </p>
@@ -40,18 +40,6 @@
 | **📋 GENEREQ** | AI-powered requirement engineering assistant that extracts structured requirements from emails, PDFs, and meeting notes with validation & traceability. | `NLP` `GenAI` `Backend APIs` |
 | **🛒 GreenEdge** | Smart retail logistics optimizer built for Walmart Hackathon. Predictive models and dashboards for route efficiency and returns processing. | `ML` `Backend Logic` `Analytics` |
 
-<p align="left">🔗 <b><a href="https://github.com/ishitaaa18?tab=repositories">View All Projects on GitHub</a></b></p>
-
----
-
-### 🛠️ Technology Stack
-
-* **💻 Programming Languages:** `Python` • `Java` • `C++` • `Go` • `TypeScript`
-* **🧠 AI/ML & Data:** `PyTorch` • `TensorFlow` • `Scikit-Learn` • `Hugging Face` • `Pandas`
-* **⚙️ Backend & APIs:** `FastAPI` • `Node.js` • `Express` • `REST APIs` • `Streamlit`
-* **📊 Databases:** `MongoDB` • `PostgreSQL` • `SQLite` • `Redis`
-* **☁️ Cloud & DevOps:** `Docker` • `Git` • `Firebase` • `Postman`
-
 ---
 
 ### 🏗️ Engineering Philosophy
@@ -72,10 +60,10 @@
 ---
 
 ### 📊 GitHub Performance
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ishitaaa18&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishitaaa18&layout=compact&theme=radical&hide_border=true" width="48%" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ishitaaa18&show_icons=true&theme=dark&hide_border=true" width="48%" alt="Main Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishitaaa18&layout=compact&theme=dark&hide_border=true" width="48%" alt="Top Languages" />
+</div>
 
 ---
 
@@ -88,17 +76,11 @@
 
 ### 🤝 Let's Collaborate
 **🔍 I'm actively looking for opportunities in:**
-* 🔧 **Backend Engineering** - Scalable APIs & Services
-* 🤖 **AI/ML Systems** - Production ML Pipelines
-* 📊 **Data Engineering** - ETL & Data Processing
-* ☁️ **Cloud Architecture** - Distributed Systems
+`Backend Engineering` • `AI/ML Systems` • `Data Engineering` • `Cloud Architecture`
 
 **💬 Open to discussing:**
 * Production ML system challenges & Data pipeline architecture
 * AI system reliability and monitoring & Backend optimization strategies
-
-**📫 Get in touch - I'm always excited to discuss real-world engineering problems!**
-[LinkedIn](https://linkedin.com/in/ishitasodhiya) | [Email Me](mailto:your-email@example.com)
 
 ---
 
