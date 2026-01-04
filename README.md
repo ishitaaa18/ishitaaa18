@@ -40,16 +40,50 @@
 | **📋 GENEREQ** | AI-powered requirement engineering assistant that extracts structured requirements from emails, PDFs, and meeting notes with validation & traceability. | `NLP` `GenAI` `Backend APIs` |
 | **🛒 GreenEdge** | Smart retail logistics optimizer built for Walmart Hackathon. Predictive models and dashboards for route efficiency and returns processing. | `ML` `Backend Logic` `Analytics` |
 
+<p align="left">🔗 <b><a href="https://github.com/ishitaaa18?tab=repositories">View All Projects on GitHub</a></b></p>
+
+---
+
+### 🛠️ Technology Stack
+
+#### 💻 Programming Languages
+<p align="left"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" /> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" /> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" /> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40" height="40" /> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" />
+</p>
+
+#### 🧠 AI/ML & Data
+<p align="left"> 
+  <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width="40" height="40"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/TensorFlowLogo.svg" width="40" height="40"/> 
+  <img src="https://pytorch.org/assets/images/pytorch-logo.png" width="40" height="40"/> 
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40" height="40"/> 
+</p>
+
+#### ⚙️ Backend & Infrastructure
+<p align="left"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" /> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40" /> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40" /> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" /> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" /> 
+</p>
+
 ---
 
 ### 🏗️ Engineering Philosophy
 > **"I don't just build systems that work in demos—I build systems that work when data is messy, incomplete, or delayed."**
 
 #### 🎯 Core Principles
-* **Reliability:** Architecting systems to maintain uptime and accuracy under high computational pressure.
-* **Debuggability:** Making systemic issues visible and understandable through robust logging and tracing.
-* **Fault Tolerance:** Ensuring graceful handling of edge cases and unexpected system states.
-* **Maintainability:** Writing clean, documented code to ensure long-term team productivity.
+* **🎯 Reliability:** Architecting systems to maintain uptime and accuracy under high computational pressure.
+* **🔍 Debuggability:** Making systemic issues visible and understandable through robust logging and tracing.
+* **⚖️ Fault Tolerance:** Ensuring graceful handling of edge cases and unexpected system states.
+* **🔧 Maintainability:** Writing clean, documented code to ensure long-term team productivity.
 
 #### 🔧 Key Focus Areas
 * **🔄 Pipeline Resilience** - Systems continue working with incomplete/inconsistent data.
@@ -59,28 +93,19 @@
 
 ---
 
-### 📊 GitHub Performance
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ishitaaa18&show_icons=true&theme=dark&hide_border=true" width="48%" alt="Main Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishitaaa18&layout=compact&theme=dark&hide_border=true" width="48%" alt="Top Languages" />
-</div>
-
----
-
-### 🐍 Contribution Activity
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ishitaaa18/ishitaaa18/output/github-snake.svg" alt="Snake Animation" />
-</p>
-
----
-
 ### 🤝 Let's Collaborate
 **🔍 I'm actively looking for opportunities in:**
-`Backend Engineering` • `AI/ML Systems` • `Data Engineering` • `Cloud Architecture`
+* 🔧 **Backend Engineering** - Scalable APIs & Services
+* 🤖 **AI/ML Systems** - Production ML Pipelines
+* 📊 **Data Engineering** - ETL & Data Processing
+* ☁️ **Cloud Architecture** - Distributed Systems
 
 **💬 Open to discussing:**
 * Production ML system challenges & Data pipeline architecture
 * AI system reliability and monitoring & Backend optimization strategies
+
+**📫 Get in touch - I'm always excited to discuss real-world engineering problems!**
+[LinkedIn](https://linkedin.com/in/ishitasodhiya) | [Email Me](mailto:ishitasodhiya@gmail.com)
 
 ---
 
