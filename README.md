@@ -77,7 +77,7 @@
 ---
 
 ### 🏗️ Engineering Philosophy
-> **"I don't just build systems that work in demos—I build systems that work when data is messy, incomplete, or delayed."**
+> **"I don't just build systems that work in demos, I build systems that work when data is messy, incomplete, or delayed."**
 
 #### 🎯 Core Principles
 * **🎯 Reliability:** Architecting systems to maintain uptime and accuracy under high computational pressure.
